@@ -24,7 +24,7 @@ Nesta etapa, o objetivo foi controlar o LED interno do Arduino (LED embutido no 
 **LED interno acesso:**  
 <div align="center">
   
-  <sub>LED externo</sub>  
+  <sub>LED interno</sub>  
   
   <img src="./assets/ledace.jpg" alt="Imagem do projeto" width="80%">
   <br>
@@ -35,7 +35,7 @@ Nesta etapa, o objetivo foi controlar o LED interno do Arduino (LED embutido no 
 **LED interno apagado:**  
 <div align="center">
   
-  <sub>LED externo</sub>  
+  <sub>LED interno</sub>  
   
   <img src="./assets/ledapa.jpg" alt="Imagem do projeto" width="80%">
   <br>
