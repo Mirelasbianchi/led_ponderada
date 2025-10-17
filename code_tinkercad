@@ -1,1 +1,10 @@
+void setup() {
+  pinMode(10, OUTPUT);
+}
 
+void loop() {
+  digitalWrite(10, HIGH); // acende o LED da placa
+  delay(1000);
+  digitalWrite(10, LOW); // apaga o LED da placa
+  delay(1000);
+}
