@@ -77,7 +77,7 @@ Imagem do projeto:
 </div> 
 
 **Projeto no TinkerCad:**  
-[(Clique aqui para ver o projeto no TinkerCad)]([https://www.tinkercad.com/things/jMhBvGEVxED/editel?returnTo=%2Fdashboard](https://www.tinkercad.com/things/jMhBvGEVxED/editel?returnTo=%2Fdashboard&sharecode=QMWaF0ODCKTKyHws4HXvsCHnPPeOKRpPSvG_XojPIdE)
+[(Clique aqui para ver o projeto no TinkerCad)](https://www.tinkercad.com/things/jMhBvGEVxED/editel?returnTo=%2Fdashboard&sharecode=QMWaF0ODCKTKyHws4HXvsCHnPPeOKRpPSvG_XojPIdE)
 
 ## Referências
 
