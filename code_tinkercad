@@ -1,10 +1,29 @@
+// --- Projeto: LED Pisca-Pisca Externo ---
+// Este código faz um LED externo, conectado ao pino digital 10 do Arduino Uno,
+// piscar continuamente em intervalos de 1 segundo (1000 milissegundos).
+
+// A função setup() é executada apenas uma vez, 
+// quando o Arduino é ligado ou reiniciado.
 void setup() {
+  // Define o pino 10 como uma saída digital (OUTPUT),
+  // pois ele será responsável por enviar corrente elétrica para o LED.
   pinMode(10, OUTPUT);
 }
 
+// A função loop() é executada repetidamente, em um ciclo infinito.
+// É aqui que o LED será aceso e apagado continuamente.
 void loop() {
-  digitalWrite(10, HIGH); // acende o LED da placa
+  // Envia um sinal ALTO (HIGH) para o pino 10, 
+  // fazendo o LED acender.
+  digitalWrite(10, HIGH);
+
+  // Mantém o LED aceso por 1 segundo (1000 milissegundos).
   delay(1000);
-  digitalWrite(10, LOW); // apaga o LED da placa
+
+  // Envia um sinal BAIXO (LOW) para o pino 10,
+  // desligando o LED.
+  digitalWrite(10, LOW);
+
+  // Mantém o LED apagado por 1 segundo antes de recomeçar o ciclo.
   delay(1000);
 }
