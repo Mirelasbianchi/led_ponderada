@@ -22,13 +22,29 @@ Nesta etapa, o objetivo foi controlar o LED interno do Arduino (LED embutido no 
 - Observe o LED interno piscando conforme o tempo definido no delay.
 
 **LED interno acesso:**  
-(foto)
+<div align="center">
+  
+  <sub>LED externo</sub>  
+  
+  <img src="../assets/ledace.png" alt="Imagem do projeto" width="80%">
+  <br>
+  <sup>Fonte: produzido por Mirela</sup>
+
+</div> 
 
 **LED interno apagado:**  
-(foto)
+<div align="center">
+  
+  <sub>LED externo</sub>  
+  
+  <img src="../assets/ledapa.png" alt="Imagem do projeto" width="80%">
+  <br>
+  <sup>Fonte: produzido por Mirela</sup>
+
+</div> 
 
 **Vídeo de demonstração:**  
-(Clique aqui para ver o vídeo)
+[(Clique aqui para ver o vídeo)](https://drive.google.com/file/d/1yaYDstOt35K4jSVJio4xX6U4fy4tEc9T/view?usp=sharing)
 
 ## Parte 2 - LED Externo
 
@@ -49,10 +65,19 @@ Para aprofundar o aprendizado, adicionamos um LED externo ao projeto. Ele será 
 - Faça o upload do código para o Arduino.
 - Observe o LED externo piscando junto com ou independente do LED interno.
 
-(imagem da placa de arduino)
+Imagem do projeto:
+<div align="center">
+  
+  <sub>LED externo</sub>  
+  
+  <img src="../assets/ledexterno.png" alt="Imagem do projeto" width="80%">
+  <br>
+  <sup>Fonte: produzido por Mirela</sup>
+
+</div> 
 
 **Projeto no TinkerCad:**  
-(Clique aqui para ver o projeto no TinkerCad)
+[(Clique aqui para ver o projeto no TinkerCad)](https://www.tinkercad.com/things/jMhBvGEVxED/editel?returnTo=%2Fdashboard)
 
 ## Referências
 
