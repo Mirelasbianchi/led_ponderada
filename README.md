@@ -26,7 +26,7 @@ Nesta etapa, o objetivo foi controlar o LED interno do Arduino (LED embutido no 
   
   <sub>LED externo</sub>  
   
-  <img src="../assets/ledace.png" alt="Imagem do projeto" width="80%">
+  <img src="./assets/ledace.jpg" alt="Imagem do projeto" width="80%">
   <br>
   <sup>Fonte: produzido por Mirela</sup>
 
@@ -37,7 +37,7 @@ Nesta etapa, o objetivo foi controlar o LED interno do Arduino (LED embutido no 
   
   <sub>LED externo</sub>  
   
-  <img src="../assets/ledapa.png" alt="Imagem do projeto" width="80%">
+  <img src="./assets/ledapa.jpg" alt="Imagem do projeto" width="80%">
   <br>
   <sup>Fonte: produzido por Mirela</sup>
 
@@ -70,7 +70,7 @@ Imagem do projeto:
   
   <sub>LED externo</sub>  
   
-  <img src="../assets/ledexterno.png" alt="Imagem do projeto" width="80%">
+  <img src="./assets/ledexterno.png" alt="Imagem do projeto" width="80%">
   <br>
   <sup>Fonte: produzido por Mirela</sup>
 
